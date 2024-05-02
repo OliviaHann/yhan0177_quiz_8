@@ -17,7 +17,8 @@ My inspiration based on the painting 'Ntange II (Grass)' by Emily Kame Kngwarrey
 
 
 # Part 2: Coding Technique Exploration
-
+This code focuses on creating a dynamic collage of images by applying different images and colour overlays to create a Pandora-inspired visual effect similar to that seen in Avatar. This piece uses the keyTyped and mousePressed functions to allow the user to save the current image with a keyboard or mouse click, increasing the interactivity with the piece.
+let colors = [...] Defines a set of colours that are randomly applied to the background and overlay image, this random and colourful application mimics the colourful organisms and environmental elements of the inspiration image.
 
 ## Image of example implecation
 ![An image of implecation](readmeImages/WX20240502-215049@2x.png)
